@@ -32,6 +32,6 @@ Other typical solutions
 2. Fluentwait - should think what timeouts should we use
 3. works by default
 
-UI Improvement
+UI Auto-login through the cookies improvement
 https://medium.com/@rosolko/boost-you-autotests-with-fast-authorization-b3eee52ecc19
 
